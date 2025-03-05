@@ -1,0 +1,22 @@
+"","location_id","location_name","sex_id","sex_name","age_group_id","age_group_name","year_id","measure_id","measure_name","metric_id","metric_name","val","upper","lower"
+"1",28,"Solomon Islands",2,"female",4,0,2019,44,"Population",1,"Number",9789.96209893543,11088.3297603271,8522.1075707915
+"2",28,"Solomon Islands",2,"female",5,1,2019,44,"Population",1,"Number",36410.855785367,41239.74860411,31695.4475013969
+"3",28,"Solomon Islands",2,"female",6,5,2019,44,"Population",1,"Number",40792.7081191404,46202.7324386665,35509.8255929935
+"4",28,"Solomon Islands",2,"female",7,10,2019,44,"Population",1,"Number",36892.9853210282,41785.8192859553,32115.1385813458
+"5",28,"Solomon Islands",2,"female",8,15,2019,44,"Population",1,"Number",32519.0905705233,36831.8483879641,28307.6875217368
+"6",28,"Solomon Islands",2,"female",9,20,2019,44,"Population",1,"Number",28856.374264123,32683.3740819901,25119.3133432679
+"7",28,"Solomon Islands",2,"female",10,25,2019,44,"Population",1,"Number",25573.6041785077,28965.2353528731,22261.6802373305
+"8",28,"Solomon Islands",2,"female",11,30,2019,44,"Population",1,"Number",23157.3546863517,26228.5372041476,20158.3484897783
+"9",28,"Solomon Islands",2,"female",12,35,2019,44,"Population",1,"Number",20651.3766420308,23390.210492894,17976.9085364953
+"10",28,"Solomon Islands",2,"female",13,40,2019,44,"Population",1,"Number",18195.8993021011,20609.0820075128,15839.4291655795
+"11",28,"Solomon Islands",2,"female",14,45,2019,44,"Population",1,"Number",14748.8025570852,16704.8232332482,12838.7506163597
+"12",28,"Solomon Islands",2,"female",15,50,2019,44,"Population",1,"Number",10746.8297612683,12172.0994490875,9355.05555026314
+"13",28,"Solomon Islands",2,"female",16,55,2019,44,"Population",1,"Number",8035.73439890665,9101.45228153331,6995.06211216474
+"14",28,"Solomon Islands",2,"female",17,60,2019,44,"Population",1,"Number",5772.60716454474,6538.18382241327,5025.02243859774
+"15",28,"Solomon Islands",2,"female",18,65,2019,44,"Population",1,"Number",4080.27472595166,4621.41029933098,3551.85646088691
+"16",28,"Solomon Islands",2,"female",19,70,2019,44,"Population",1,"Number",2677.64852524371,3032.76453270277,2330.87815236583
+"17",28,"Solomon Islands",2,"female",20,75,2019,44,"Population",1,"Number",1507.61144797015,1707.55440282603,1312.36738250043
+"18",28,"Solomon Islands",2,"female",30,80,2019,44,"Population",1,"Number",683.099332538896,773.693563029652,594.634170653773
+"19",28,"Solomon Islands",2,"female",31,85,2019,44,"Population",1,"Number",199.581770135755,226.0507710909,173.734821144081
+"20",28,"Solomon Islands",2,"female",32,90,2019,44,"Population",1,"Number",35.5248165246219,40.2362007451447,30.9241552516716
+"21",28,"Solomon Islands",2,"female",235,95,2019,44,"Population",1,"Number",4.96918206692365,5.62820661002812,4.32564535850209
