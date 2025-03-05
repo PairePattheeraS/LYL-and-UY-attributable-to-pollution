@@ -288,7 +288,7 @@ LTcii2 <- function(dx,mx,Sex,B) {
 }
 
 # ================================================================================
-# ANALYSE: Life Years Lost (LYL) for Different Countries, Sex ans Pollution types
+# ANALYSE: Life Years Lost (LYL) for Different Countries, Sex and Pollution types
 # ================================================================================
 # Define study parameters
 sex_labels<- c("Female","Male")
@@ -507,7 +507,7 @@ CIex_morbid <- function(x, qx, Dx, PM, APM, HAP, sex, ax = NULL,
 }
 
 # ===============================================================================
-# ANALYSE: Unhealthy Years (UY) for Different Countries, Sex ans Pollution types
+# ANALYSE: Unhealthy Years (UY) for Different Countries, Sex and Pollution types
 # ===============================================================================
 # Define study parameters
 country_codes <- c("SLB", "CHN")
