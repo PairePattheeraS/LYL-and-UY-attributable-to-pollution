@@ -8,7 +8,7 @@
 # ------------------------------------------------------
 
 # Set working directory (Change this path based on your system)
-setwd("/Users/u6256541/Desktop/Thesis/Github Code")
+setwd("")
 
 # Load required libraries
 library(tidyverse)
